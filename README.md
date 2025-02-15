@@ -26,7 +26,7 @@ pip install numpy matplotlib
    Ejecuta el script en un entorno de Python compatible (como un IDE o la terminal) para visualizar la animación en tiempo real:
 
     ```bash
-    python animacion_corazon.py
+    python3 main.py
     ```
 
 2. **Guardado de la imagen**  
